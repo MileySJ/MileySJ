@@ -1,6 +1,5 @@
-### Hi there 👋
+### <h1 align="center">Hi 👋, Welcome to my github! </h1>
 
-<h1 align="center">Hi 👋, Welcome to my github! </h1>
 <img align="right" alt="Coding" width="400" src="https://im5.ezgif.com/tmp/ezgif-5-df51543f09.gif">
 
 

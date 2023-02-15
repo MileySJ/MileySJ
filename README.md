@@ -1,11 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, Welcome to my github! </h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1420376/screenshots/9190814/media/a388483021996f06c0d8cc5f1c244ebc.mp4">
-
-
-
-https://user-images.githubusercontent.com/100221414/219093661-a4553f1e-3a43-4d57-83bb-e35477ee9f64.mp4
+<img align="right" alt="Coding" width="400" src="https://im5.ezgif.com/tmp/ezgif-5-df51543f09.gif">
 
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=MileySJ&label=Profile%20views&color=ff99ff&style=flat" alt="MileySJ" /></p>

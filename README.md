@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi 👋, Welcome to my github! </h1>
 
-<img align="right" alt="Coding" width="400" src="https://im5.ezgif.com/tmp/ezgif-5-df51543f09.gif">
+<img align="right" alt="Coding" width="350" height="350" src="https://img.freepik.com/premium-vector/cute-kawaii-girl-working-desk-manga-chibi_342801-88.jpg?w=1380">
 
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=MileySJ&label=Profile%20views&color=ff99ff&style=flat" alt="MileySJ" /></p>

@@ -6,7 +6,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=MileySJ&label=Profile%20views&color=ff99ff&style=flat" alt="MileySJ" /></p>
 
 
-- 🔭 I’m currently working on **ohmyfood mockup embeding** 🥐
 
 - 🌱 I’m currently learning **Javascript**
 

@@ -7,9 +7,10 @@
 
 
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React**
 
-- 📫 Reach me at **ohmiley007@gmail.com**
+- 💻 working on Skyscanner backpack react web app
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

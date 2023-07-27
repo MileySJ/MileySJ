@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💻 working on **Skyscanner Backpack React Web App**
+- 💻 working at The Next Unit
 
 
 <h3 align="left">Connect with me:</h3>
